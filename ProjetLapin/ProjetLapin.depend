@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1699106340 source:/home/noel/Documents/L3/SyntheseImage/TD4/ProjetLapin/src/TeinturierQaeze.cpp
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<math.h>
+	<unistd.h>
+	<jpeglib.h>
+	<jerror.h>
+
+1698152882 source:/home/noel/Documents/L3/SyntheseImage/TD4/ProjetLapin/src/TryH.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
+1698778017 source:/home/noel/Documents/L3/SyntheseImage/TD4/ProjetLapin/src/Texture.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+	<iostream>
+
+1699103048 source:/home/noel/Documents/L3/SyntheseImage/TD4/ProjetLapin/src/Thomas.cpp
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+
+1699438498 source:/home/noel/Documents/L3/SyntheseImage/TD4/ProjetLapin/src/Final.cpp
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<math.h>
+	<unistd.h>
+	<jpeglib.h>
+	<jerror.h>
+
+1699805395 source:/home/noel/Documents/Cours/Licence/L3/S5/SyntheseImage/ProjetLapin/src/Final.cpp
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<math.h>
+	<unistd.h>
+	<jpeglib.h>
+	<jerror.h>
+

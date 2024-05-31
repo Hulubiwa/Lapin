@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetLapin" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjetLapin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="glut" />
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="jpeg" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjetLapin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Image/CarreBlanc.jpg" />
+		<Unit filename="Image/CarreNoir.jpg" />
+		<Unit filename="Image/NoirBlanc.jpg" />
+		<Unit filename="include/Final.h" />
+		<Unit filename="include/Texture.h" />
+		<Unit filename="include/Thomas.h" />
+		<Unit filename="include/TryH.h" />
+		<Unit filename="src/Final.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
