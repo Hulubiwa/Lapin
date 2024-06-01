@@ -7,18 +7,18 @@ Ce projet a été réalisé durant ma troisième année de licence pour la mati�
 
 ## Prérequis
 
-    CodeBlocks (version 20.03 ou supérieure)
-    Les bibliothèques nécessaires pour le développement 3D (comme OpenGL, GLUT, etc.)
+CodeBlocks (version 20.03 ou supérieure)
+Les bibliothèques nécessaires pour le développement 3D (comme OpenGL, GLUT, etc.)
 
 ## Installation
 
-    Clonez ce dépôt sur votre machine locale.
+Clonez ce dépôt sur votre machine locale.
     
-    Ouvrez CodeBlocks.
+Ouvrez CodeBlocks.
 
-    Dans CodeBlocks, sélectionnez Fichier -> Ouvrir....
+Dans CodeBlocks, sélectionnez Fichier -> Ouvrir....
 
-    Accédez au répertoire ProjetLapin et ouvrez le fichier ProjetLapin.cbp.
+Accédez au répertoire ProjetLapin et ouvrez le fichier ProjetLapin.cbp.
 
 ## Utilisation
 
